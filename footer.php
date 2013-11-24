@@ -1,0 +1,1 @@
+<p class="siteLegals">PHP Script by Ardel John S. Biscaro</p>
